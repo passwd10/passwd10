@@ -1,3 +1,3 @@
-## Hi there! 👋
+### Hi there! 👋
 
-[Profile](https://park-answer.netlify.app/about)
+- [Profile](https://park-answer.netlify.app/about)
